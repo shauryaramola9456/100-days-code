@@ -7,4 +7,5 @@ int main ()
     scanf("%d %d", &n1 ,&n2);
     sum = n1 + n2;
     printf("The sum of the number is %d", sum);
+    return 0;
 }
