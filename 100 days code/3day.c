@@ -10,4 +10,5 @@ int main ()
     area=length*breadth;
     printf("the perimeter of the rectangle is %f\n", perimeter);
     printf("the area of the rectangle is %f\n", area);
+    return 0;
 }
