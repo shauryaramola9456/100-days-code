@@ -14,4 +14,5 @@ int main ()
     printf(" The difference of the two number is %d\n", diff);
     printf(" The product of the two number is %d\n", product);
     printf( " The quotient of thw two number is %d\n",quotient);
+    return 0;
 }
